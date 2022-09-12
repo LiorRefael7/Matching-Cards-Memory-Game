@@ -1,0 +1,18 @@
+C:\Users\lioro\Desktop\GameUI\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\lioro\Desktop\GameUI\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\lioro\Desktop\GameUI\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\lioro\Desktop\GameUI\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\lioro\Desktop\GameUI\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\lioro\Desktop\GameUI\GameLogic\obj\Debug\GameLogic.pdb
+\\Mac\Home\Desktop\GameUI\GameUI\GameLogic\bin\Debug\GameLogic.dll
+\\Mac\Home\Desktop\GameUI\GameUI\GameLogic\bin\Debug\GameLogic.pdb
+\\Mac\Home\Desktop\GameUI\GameUI\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\GameUI\GameUI\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\GameUI\GameUI\GameLogic\obj\Debug\GameLogic.dll
+\\Mac\Home\Desktop\GameUI\GameUI\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameLogic\obj\Debug\GameLogic.pdb

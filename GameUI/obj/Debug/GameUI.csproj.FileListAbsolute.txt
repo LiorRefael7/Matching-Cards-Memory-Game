@@ -1,0 +1,39 @@
+C:\Users\lioro\Desktop\GameUI\GameUI\obj\Debug\GameUI.csproj.AssemblyReference.cache
+C:\Users\lioro\Desktop\GameUI\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\lioro\Desktop\GameUI\GameUI\bin\Debug\GameUI.exe
+C:\Users\lioro\Desktop\GameUI\GameUI\bin\Debug\GameUI.pdb
+C:\Users\lioro\Desktop\GameUI\GameUI\bin\Debug\GameLogic.dll
+C:\Users\lioro\Desktop\GameUI\GameUI\bin\Debug\GameLogic.pdb
+C:\Users\lioro\Desktop\GameUI\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\lioro\Desktop\GameUI\GameUI\obj\Debug\GameUI.exe
+C:\Users\lioro\Desktop\GameUI\GameUI\obj\Debug\GameUI.pdb
+C:\Users\lioro\Desktop\GameUI\GameUI\obj\Debug\GameUI.SettingsFormD.resources
+C:\Users\lioro\Desktop\GameUI\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+C:\Users\lioro\Desktop\GameUI\GameUI\obj\Debug\GameUI.GameFormD.resources
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\bin\Debug\GameUI.exe.config
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\bin\Debug\GameUI.exe
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\bin\Debug\GameUI.pdb
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\bin\Debug\GameLogic.dll
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\bin\Debug\GameLogic.pdb
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\obj\Debug\GameUI.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\obj\Debug\GameUI.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\obj\Debug\GameUI.GameFormD.resources
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\obj\Debug\GameUI.SettingsFormD.resources
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\obj\Debug\GameUI.exe
+\\Mac\Home\Desktop\GameUI\GameUI\GameUI\obj\Debug\GameUI.pdb
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\bin\Debug\GameUI.exe.config
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\bin\Debug\GameUI.exe
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\bin\Debug\GameUI.pdb
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\bin\Debug\GameLogic.dll
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\bin\Debug\GameLogic.pdb
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\obj\Debug\GameUI.csproj.AssemblyReference.cache
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\obj\Debug\GameUI.GameFormD.resources
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\obj\Debug\GameUI.SettingsFormD.resources
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\obj\Debug\GameUI.exe
+C:\Users\lioro\Desktop\GameUI with bug\GameUI\GameUI\GameUI\obj\Debug\GameUI.pdb
